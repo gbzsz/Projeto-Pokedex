@@ -35,3 +35,13 @@ Este projeto é um desafio de análise de dados usando SQL em um dataset clássi
 - ├── notebook/desafiuo_sql.ipynb 
 - ├── README.md 
 
+## 🔍 Perguntas respondidas no projeto
+
+- 💥 Quais são os 5 Pokémon com maior ataque?
+- 🛡️ Qual tipo tem o maior HP médio?
+- 🌟 Quantos Pokémon lendários existem por geração?
+- 🔁 Quais são os tipos primários e secundários mais comuns?
+- ⚡ Qual tipo tem a maior média de velocidade?
+- 📊 Como variam os stats totais entre gerações?
+
+➡️ Confira as respostas completas e gráficos no notebook [`desafio_sql.ipynb`](notebook/desafio_sql.ipynb).
